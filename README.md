@@ -42,3 +42,7 @@ Content here.
 |----------|---------|---------|
 | `NEXT_PUBLIC_SITE_URL` | `http://localhost:3000` | Canonical URLs, sitemap, RSS |
 | `VIEWS_FILE` | `data/views.json` | View counter storage |
+
+## Development history
+
+This project was developed locally between 2025-11-26 and 2025-12-15. The commit history was created afterwards, and the commit dates were adjusted to match the period in which the work was actually done.
